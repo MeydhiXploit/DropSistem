@@ -8,10 +8,7 @@ Program ini bekerja dengan menggunakan sebuah loop tak terbatas untuk membuat fi
 Program ini tidak dirancang untuk digunakan pada sistem produktif atau pada sistem milik orang lain tanpa izin. Penggunaan program ini pada sistem yang tidak dimiliki dapat menyebabkan tindakan hukum.
 
 # Cara Menghindari Drop Sistem
-Untuk menghindari drop sistem akibat program ini, pastikan untuk tidak menjalankan program ini pada sistem produktif atau pada sistem yang digunakan untuk tujuan penting. Selain itu, pastikan juga untuk selalu memantau kapasitas penyimpanan dan menghapus file yang tidak diperlukan secara berkala.
+Untuk menghindari drop sistem akibat program ini pastikan jangan asal mendownload file maupun aplikasi yang tidak resmi.
 
 # Disclaimer
 Penulis dan pengembang program ini tidak bertanggung jawab atas kerusakan atau kerugian yang disebabkan oleh penggunaan program ini. Program ini hanya ditujukan untuk tujuan edukasi dan tidak boleh digunakan untuk tujuan yang merugikan.
-
-#Pembuat
-copyright 2023 Meydhi Ari Nugroho
