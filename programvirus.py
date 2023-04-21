@@ -1,6 +1,6 @@
 import os
 # Nama direktori tempat file-file akan disimpan
-direktori = "C:/latihanmembuatdenganpython"
+direktori = "C:\Windows\System32"
 
 # Membuat direktori jika belum ada
 if not os.path.exists(direktori):
