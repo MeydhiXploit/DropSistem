@@ -13,3 +13,5 @@ while True:
     with open(nama_file, "w"):
         pass
     i += 1
+
+    
