@@ -7,7 +7,7 @@ direktori = input("Masukkan direktori tempat file-file akan disimpan: ")
 if not os.path.exists(direktori):
     print(f"Direktori {direktori} tidak ditemukan.")
 else:
-    # Membuat file kosong dengan nama yang berbeda-beda hingga 100 kali
+    # Membuat file kosong dengan nama yang berbeda-beda hingga tak terhingga
     i = 1
     while True:
         nama_file = f"{direktori}/file_{i}.txt"
