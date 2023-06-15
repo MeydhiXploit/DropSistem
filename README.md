@@ -12,3 +12,6 @@ Untuk menghindari drop sistem akibat program ini pastikan jangan asal mendownloa
 
 # Disclaimer
 Penulis dan pengembang program ini tidak bertanggung jawab atas kerusakan atau kerugian yang disebabkan oleh penggunaan program ini. Program ini hanya ditujukan untuk tujuan edukasi dan tidak boleh digunakan untuk tujuan yang merugikan.
+
+## Donasi For Coffee
+<a href="https://trakteer.id/meydhi ari nugroho/tip?open=true">Donasi For Coffee</a>
